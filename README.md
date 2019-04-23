@@ -1,6 +1,6 @@
 # ReduxDemo
 ### 步骤：
-
+![redux](https://github.com/hugo1o1/images/blob/master/reduxFlow.png)
 1. `create-react-app`新建一个 react +redux demo。
 
 2. 安装 redux 框架库
@@ -122,7 +122,7 @@
    }
    ```
 
-   
+![redux](https://github.com/hugo1o1/images/blob/master/ReduxMethod.png)   
 
 
 
